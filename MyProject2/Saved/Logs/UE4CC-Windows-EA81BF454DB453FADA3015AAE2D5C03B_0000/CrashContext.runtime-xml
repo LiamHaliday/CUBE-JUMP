@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-EA81BF454DB453FADA3015AAE2D5C03B_0000</CrashGUID>
+		<ProcessId>8836</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>16637</SecondsSinceStart>
+		<GameName>UE4-MyProject2</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Dirty</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.14.3-3249277+++UE4+Release-4.14</EngineVersion>
+		<CommandLine>&quot;E:\Jarlin School\2017\Semester 2\GD2J03 - Rapid Prototyping\My Work\Prototype 3\MyProject2\MyProject2.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>5129</LanguageLCID>
+		<AppDefaultLocale>en_NZ</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.14-CL-3249277</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>jarlinbar6879</UserName>
+		<BaseDir>C:/apps/Epic Games/4.14/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/apps/Epic Games/4.14/</RootDir>
+		<MachineId>735EE9FF4EB8CDE547CCD4A34CB7584B</MachineId>
+		<EpicAccountId>a7cb326211bb48019c2e8262668286f4</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Assertion failed: !Proxy-&gt;IsDeleted() [File:d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\renderer\private\StaticMeshDrawList.inl] [Line: 937] &nl;&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 670</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+		<MemoryStats.TotalPhysical>8546058240</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>8796092891136</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>2523357184</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>8791134109696</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>2515312640</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>2515312640</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>3614912512</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>3851173888</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636396596720880000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 7 Service Pack 1 64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
