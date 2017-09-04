@@ -1,0 +1,1542 @@
+﻿Log file open, 09/04/17 12:41:42
+LogInit:Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-86609152) SRandInit(-86609152).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.074942
+LogPluginManager: Loaded Plugin Paper2D, From C:/apps/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/apps/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/apps/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/apps/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/apps/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.04-00.41.43:422][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.04-00.41.43:422][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.04-00.41.43:459][  0]LogInit: Computer: 1805C005
+[2017.09.04-00.41.43:459][  0]LogInit: User: gregoryjon6888
+[2017.09.04-00.41.43:459][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.09.04-00.41.43:459][  0]LogInit: High frequency timer resolution =3.323603 MHz
+[2017.09.04-00.41.43:459][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.09.04-00.41.43:459][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.41.43:459][  0]LogMemory: Process Physical Memory: 266.27 MB used, 266.27 MB peak
+[2017.09.04-00.41.43:459][  0]LogMemory: Process Virtual Memory: 265.42 MB used, 265.42 MB peak
+[2017.09.04-00.41.43:459][  0]LogMemory: Physical Memory: 5711.82 MB used,  2438.33 MB free, 8150.16 MB total
+[2017.09.04-00.41.43:459][  0]LogMemory: Virtual Memory: 663.93 MB used,  2438.33 MB free, 8388608.00 MB total
+[2017.09.04-00.41.43:531][  0]LogTextLocalizationManager: No specific translations for ('en-NZ') exist, so ('en') translations will be used.
+[2017.09.04-00.41.44:341][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.04-00.41.44:361][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2017.09.04-00.41.44:361][  0]LogD3D11RHI:       1989/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.09.04-00.41.44:361][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.04-00.41.44:365][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.04-00.41.44:365][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.04-00.41.44:365][  0]LogWindows: EnumDisplayDevices:
+[2017.09.04-00.41.44:365][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:0 D:1)
+[2017.09.04-00.41.44:365][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2017.09.04-00.41.44:365][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.09.04-00.41.44:365][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.09.04-00.41.44:365][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.09.04-00.41.44:366][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.09.04-00.41.44:366][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.09.04-00.41.44:366][  0]LogWindows:    7. 'Mirage Driver' (P:0 D:0)
+[2017.09.04-00.41.44:366][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.09.04-00.41.44:366][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2017.09.04-00.41.44:366][  0]LogD3D11RHI:   Driver Version: 364.72 (internal:10.18.13.6472, unified:364.72)
+[2017.09.04-00.41.44:366][  0]LogD3D11RHI:      Driver Date: 3-21-2016
+[2017.09.04-00.41.44:366][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.04-00.41.44:373][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.09.04-00.41.44:373][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.04-00.41.44:388][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.09.04-00.41.44:388][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Intermediate/Shaders/WorkingDirectory/8780/).
+[2017.09.04-00.41.44:388][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/gregory.jon6888/AppData/Local/Temp/UnrealShaderWorkingDir/68C1C8FF4AFCF6E7176374B0A3B022F4/'.
+[2017.09.04-00.41.44:388][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.09.04-00.41.45:808][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.04-00.41.45:906][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.09.04-00.41.46:003][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.04-00.41.46:101][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.09.04-00.41.46:199][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.09.04-00.41.46:298][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.04-00.41.46:396][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.04-00.41.46:493][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.04-00.41.46:575][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.09.04-00.41.46:672][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.09.04-00.41.46:769][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.04-00.41.46:865][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.04-00.41.46:964][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.04-00.41.47:061][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.04-00.41.47:157][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.04-00.41.47:352][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.04-00.41.47:352][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.04-00.41.47:426][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.09.04-00.41.47:573][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.09.04-00.41.47:627][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.09.04-00.41.47:723][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.04-00.41.47:820][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.04-00.41.47:917][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.04-00.41.48:016][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.09.04-00.41.48:016][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.09.04-00.41.48:709][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache: Loaded boot cache 0.20s 50MB D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache:Display: Loaded Boot cache: D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.04-00.41.48:913][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.04-00.41.48:929][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.04-00.41.48:941][  0]LogDerivedDataCache: Using Local data cache path D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.04-00.41.49:202][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.04-00.41.49:205][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.04-00.41.49:508][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.04-00.41.49:589][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.04-00.41.49:668][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.04-00.41.49:668][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.09.04-00.41.49:668][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.09.04-00.41.50:259][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: myproject2, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 178977787
+[2017.09.04-00.41.50:332][  0]LogAssetRegistry: FAssetRegistry took 0.0203 seconds to start up
+[2017.09.04-00.41.50:674][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.304377 seconds
+[2017.09.04-00.41.50:680][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.09.04-00.41.50:680][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.09.04-00.41.50:680][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.04-00.41.50:798][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.04-00.41.52:228][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.04-00.41.52:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.04-00.41.52:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.04-00.41.53:888][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.09.04-00.41.53:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.04-00.41.53:991][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.04-00.41.54:509][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.04-00.41.55:145][  0]SourceControl: Info Source control is disabled
+[2017.09.04-00.41.55:192][  0]SourceControl: Info Source control is disabled
+[2017.09.04-00.41.55:277][  0]SourceControl: Info Source control is disabled
+[2017.09.04-00.41.55:357][  0]SourceControl: Info Source control is disabled
+[2017.09.04-00.41.57:606][  0]LogEngine: Initializing Engine...
+[2017.09.04-00.41.57:606][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.04-00.41.57:961][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.04-00.41.57:972][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.04-00.41.57:979][  0]LogInit: FAudioDevice initialized.
+[2017.09.04-00.41.58:003][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.09.04-00.41.58:007][  0]LogInit: Texture streaming: Enabled
+[2017.09.04-00.41.58:336][  0]LogInit: Transaction tracking system initialized
+[2017.09.04-00.41.58:986][  0]BlueprintLog: New page: Editor Load
+[2017.09.04-00.42.00:642][  0]LocalizationService: Info Localization service is disabled
+[2017.09.04-00.42.01:831][  0]LogConsoleResponse:Display: 
+[2017.09.04-00.42.02:002][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.04-00.42.02:002][  0]LogCook:Display: Mobile HDR setting 1
+[2017.09.04-00.42.02:866][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/' took 0.01s
+[2017.09.04-00.42.03:698][  0]SourceControl: Info Source control is disabled
+[2017.09.04-00.42.03:698][  0]Cmd: MAP LOAD FILE="E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/SideScrollerBP/Maps/LevelONE.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.04-00.42.03:699][  0]LightingResults: New page: Lighting Build
+[2017.09.04-00.42.03:774][  0]MapCheck: New page: Map Check
+[2017.09.04-00.42.03:774][  0]LightingResults: New page: Lighting Build
+[2017.09.04-00.42.04:529][  0]LogTexture:Display: Building textures: lava_R (AutoDXT)
+[2017.09.04-00.42.04:695][  0]LogTexture:Display: Building textures: lava_DBLur (AutoDXT)
+[2017.09.04-00.42.04:836][  0]LogTexture:Display: Building textures: lava_D (AutoDXT)
+[2017.09.04-00.42.04:967][  0]LogTexture:Display: Building textures: lavaBubble2_D (AutoDXT)
+[2017.09.04-00.42.05:055][  0]LogMaterial: Missing cached shader map for material Lava_M, compiling. 
+[2017.09.04-00.42.05:196][  0]LogStaticMesh: Building static mesh lava_mesh...
+[2017.09.04-00.42.05:427][  0]LogStaticMesh: Built static mesh [0.23s] /Game/SideScrollerBP/Meshes/lava_mesh.lava_mesh
+[2017.09.04-00.42.05:443][  0]LogMaterial: Missing cached shader map for material CubeMaterial_2, compiling. 
+[2017.09.04-00.42.05:480][  0]LogStaticMesh: Building static mesh cube_Mesh...
+[2017.09.04-00.42.05:612][  0]LogStaticMesh: Built static mesh [0.13s] /Game/SideScrollerBP/Meshes/cube_MEsh.cube_Mesh
+[2017.09.04-00.42.05:672][  0]LogTexture:Display: Building textures: bg2_D (AutoDXT)
+[2017.09.04-00.42.05:927][  0]LogMaterial: Missing cached shader map for material Backdrop_M, compiling. 
+[2017.09.04-00.42.05:958][  0]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.09.04-00.42.05:963][  0]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.09.04-00.42.05:964][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.09.04-00.42.05:968][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.09.04-00.42.05:973][  0]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2017.09.04-00.42.05:984][  0]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2017.09.04-00.42.05:990][  0]LogMaterial: Missing cached shader map for material BLACK, compiling. 
+[2017.09.04-00.42.06:031][  0]LogMaterial: Missing cached shader map for material GREEN, compiling. 
+[2017.09.04-00.42.06:286][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.09.04-00.42.06:667][  0]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.06:683][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.04-00.42.06:684][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.04-00.42.06:855][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 171.594ms to complete.
+[2017.09.04-00.42.06:855][  0]LogFileHelpers: Loading map 'LevelONE' took 3.157
+[2017.09.04-00.42.07:065][  0]LogCollectionManager: Loaded 0 collections in 0.002412 seconds
+[2017.09.04-00.42.07:277][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Saved/Collections/' took 0.01s
+[2017.09.04-00.42.07:277][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/Developers/gregoryjon6888/Collections/' took 0.01s
+[2017.09.04-00.42.07:277][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/Collections/' took 0.01s
+[2017.09.04-00.42.07:277][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.09.04-00.42.07:292][  0]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2204 classes and 434 folders.
+[2017.09.04-00.42.07:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.04-00.42.07:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.04-00.42.07:416][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0010 seconds. Added 13 classes and 0 folders.
+[2017.09.04-00.42.07:604][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.09.04-00.42.07:691][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.09.04-00.42.07:815][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.09.04-00.42.08:063][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.09.04-00.42.08:070][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.09.04-00.42.08:217][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.09.04-00.42.08:218][  0]LogLoad: (Engine Initialization) Total time: 27.27 seconds
+[2017.09.04-00.42.08:218][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.36 seconds
+[2017.09.04-00.42.08:218][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.04-00.42.08:218][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.04-00.42.08:227][  0]LogOcInput: OculusInput pre-init called
+[2017.09.04-00.42.08:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.04-00.42.08:491][  0]LogRenderer: Reallocating scene render targets to support 648x540 NumSamples 1 (Frame:2).
+[2017.09.04-00.42.08:645][  2]LogAssetRegistry: Asset discovery search completed in 18.3337 seconds
+[2017.09.04-00.42.08:645][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.04-00.42.08:645][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2017.09.04-00.42.27:408][982]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.09.04-00.42.27:422][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.42.27:422][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.04-00.42.27:422][982]PIE: New page: PIE session: LevelONE (5/09/2017 12:42:27 am)
+[2017.09.04-00.42.27:422][982]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.27:467][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044500s)
+[2017.09.04-00.42.27:467][982]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.27:468][982]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2017.09.04-00.42.27:468][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.045486s)
+[2017.09.04-00.42.27:486][982]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.04-00.42.27:493][982]LogInit: FAudioDevice initialized.
+[2017.09.04-00.42.27:587][982]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.27:591][982]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.27
+[2017.09.04-00.42.27:639][982]LogWorld: Bringing up level for play took: 0.051279
+[2017.09.04-00.42.27:719][982]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.09.04-00.42.27:725][982]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE 0.978
+[2017.09.04-00.42.27:726][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.42.27:824][982]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:2164).
+[2017.09.04-00.42.31:538][408]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.31:538][408]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.31:550][408]Cmd: MEM
+[2017.09.04-00.42.31:560][408]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.31:560][408]LogMemory: Process Physical Memory: 1008.93 MB used, 1020.19 MB peak
+[2017.09.04-00.42.31:560][408]LogMemory: Process Virtual Memory: 1500.44 MB used, 1586.96 MB peak
+[2017.09.04-00.42.31:560][408]LogMemory: Physical Memory: 6471.88 MB used,  1678.27 MB free, 8150.16 MB total
+[2017.09.04-00.42.31:560][408]LogMemory: Virtual Memory: 2226.52 MB used,  1678.27 MB free, 8388608.00 MB total
+[2017.09.04-00.42.31:560][408]LogMemory: 
+[2017.09.04-00.42.31:560][408]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.31:562][408]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.31:579][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016734s)
+[2017.09.04-00.42.31:579][408]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.31:579][408]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2017.09.04-00.42.31:580][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.017625s)
+[2017.09.04-00.42.31:580][408]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.31:586][408]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.31
+[2017.09.04-00.42.31:587][408]LogWorld: Bringing up level for play took: 0.006233
+[2017.09.04-00.42.31:591][408]LogLoad: Took 0.052215 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.34:565][761]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.34:565][761]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.34:577][761]Cmd: MEM
+[2017.09.04-00.42.34:584][761]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.34:584][761]LogMemory: Process Physical Memory: 1012.88 MB used, 1029.03 MB peak
+[2017.09.04-00.42.34:584][761]LogMemory: Process Virtual Memory: 1423.87 MB used, 1669.02 MB peak
+[2017.09.04-00.42.34:584][761]LogMemory: Physical Memory: 6367.14 MB used,  1783.02 MB free, 8150.16 MB total
+[2017.09.04-00.42.34:584][761]LogMemory: Virtual Memory: 2148.15 MB used,  1783.02 MB free, 8388608.00 MB total
+[2017.09.04-00.42.34:584][761]LogMemory: 
+[2017.09.04-00.42.34:584][761]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.34:584][761]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.34:599][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014960s)
+[2017.09.04-00.42.34:600][761]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.34:600][761]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2017.09.04-00.42.34:600][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.015798s)
+[2017.09.04-00.42.34:600][761]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.34:605][761]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.34
+[2017.09.04-00.42.34:606][761]LogWorld: Bringing up level for play took: 0.004972
+[2017.09.04-00.42.34:607][761]LogLoad: Took 0.042226 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.36:274][958]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.36:274][958]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.36:283][958]Cmd: MEM
+[2017.09.04-00.42.36:293][958]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.36:293][958]LogMemory: Process Physical Memory: 1021.52 MB used, 1032.61 MB peak
+[2017.09.04-00.42.36:293][958]LogMemory: Process Virtual Memory: 1446.86 MB used, 1669.02 MB peak
+[2017.09.04-00.42.36:293][958]LogMemory: Physical Memory: 6375.12 MB used,  1775.04 MB free, 8150.16 MB total
+[2017.09.04-00.42.36:293][958]LogMemory: Virtual Memory: 2171.09 MB used,  1775.04 MB free, 8388608.00 MB total
+[2017.09.04-00.42.36:293][958]LogMemory: 
+[2017.09.04-00.42.36:293][958]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.36:293][958]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.36:306][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012869s)
+[2017.09.04-00.42.36:306][958]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.36:307][958]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.09.04-00.42.36:307][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013925s)
+[2017.09.04-00.42.36:307][958]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.36:313][958]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.36
+[2017.09.04-00.42.36:313][958]LogWorld: Bringing up level for play took: 0.005650
+[2017.09.04-00.42.36:315][958]LogLoad: Took 0.040824 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.38:046][163]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.38:046][163]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.38:055][163]Cmd: MEM
+[2017.09.04-00.42.38:065][163]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.38:065][163]LogMemory: Process Physical Memory: 1022.54 MB used, 1033.23 MB peak
+[2017.09.04-00.42.38:065][163]LogMemory: Process Virtual Memory: 1430.83 MB used, 1669.02 MB peak
+[2017.09.04-00.42.38:065][163]LogMemory: Physical Memory: 6375.70 MB used,  1774.46 MB free, 8150.16 MB total
+[2017.09.04-00.42.38:065][163]LogMemory: Virtual Memory: 2155.09 MB used,  1774.46 MB free, 8388608.00 MB total
+[2017.09.04-00.42.38:065][163]LogMemory: 
+[2017.09.04-00.42.38:065][163]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.38:065][163]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.38:078][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012820s)
+[2017.09.04-00.42.38:078][163]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.38:079][163]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.09.04-00.42.38:079][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013790s)
+[2017.09.04-00.42.38:079][163]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.38:084][163]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.38
+[2017.09.04-00.42.38:084][163]LogWorld: Bringing up level for play took: 0.004462
+[2017.09.04-00.42.38:085][163]LogLoad: Took 0.039200 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.40:031][394]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.40:031][394]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.40:040][394]Cmd: MEM
+[2017.09.04-00.42.40:050][394]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.40:050][394]LogMemory: Process Physical Memory: 1022.90 MB used, 1034.28 MB peak
+[2017.09.04-00.42.40:050][394]LogMemory: Process Virtual Memory: 1430.83 MB used, 1669.02 MB peak
+[2017.09.04-00.42.40:050][394]LogMemory: Physical Memory: 6376.84 MB used,  1773.32 MB free, 8150.16 MB total
+[2017.09.04-00.42.40:050][394]LogMemory: Virtual Memory: 2155.09 MB used,  1773.32 MB free, 8388608.00 MB total
+[2017.09.04-00.42.40:050][394]LogMemory: 
+[2017.09.04-00.42.40:050][394]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.40:050][394]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.40:063][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012712s)
+[2017.09.04-00.42.40:063][394]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.40:064][394]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.09.04-00.42.40:064][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013841s)
+[2017.09.04-00.42.40:064][394]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.40:069][394]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.40
+[2017.09.04-00.42.40:069][394]LogWorld: Bringing up level for play took: 0.004614
+[2017.09.04-00.42.40:070][394]LogLoad: Took 0.039572 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.43:866][847]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.43:866][847]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.43:876][847]Cmd: MEM
+[2017.09.04-00.42.43:885][847]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.43:885][847]LogMemory: Process Physical Memory: 1010.86 MB used, 1034.63 MB peak
+[2017.09.04-00.42.43:885][847]LogMemory: Process Virtual Memory: 1418.18 MB used, 1669.02 MB peak
+[2017.09.04-00.42.43:885][847]LogMemory: Physical Memory: 6361.67 MB used,  1788.48 MB free, 8150.16 MB total
+[2017.09.04-00.42.43:885][847]LogMemory: Virtual Memory: 2142.46 MB used,  1788.48 MB free, 8388608.00 MB total
+[2017.09.04-00.42.43:885][847]LogMemory: 
+[2017.09.04-00.42.43:885][847]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.43:885][847]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.43:899][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013584s)
+[2017.09.04-00.42.43:900][847]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.43:900][847]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2017.09.04-00.42.43:900][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.014552s)
+[2017.09.04-00.42.43:900][847]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.43:905][847]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.43
+[2017.09.04-00.42.43:906][847]LogWorld: Bringing up level for play took: 0.004692
+[2017.09.04-00.42.43:907][847]LogLoad: Took 0.040218 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.45:187][998]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.45:187][998]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.45:196][998]Cmd: MEM
+[2017.09.04-00.42.45:206][998]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.45:206][998]LogMemory: Process Physical Memory: 1019.26 MB used, 1034.63 MB peak
+[2017.09.04-00.42.45:206][998]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.45:206][998]LogMemory: Physical Memory: 6369.77 MB used,  1780.38 MB free, 8150.16 MB total
+[2017.09.04-00.42.45:206][998]LogMemory: Virtual Memory: 2151.02 MB used,  1780.38 MB free, 8388608.00 MB total
+[2017.09.04-00.42.45:206][998]LogMemory: 
+[2017.09.04-00.42.45:206][998]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.45:206][998]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.45:218][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012183s)
+[2017.09.04-00.42.45:219][998]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.45:219][998]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2017.09.04-00.42.45:219][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013063s)
+[2017.09.04-00.42.45:219][998]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.45:224][998]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.45
+[2017.09.04-00.42.45:224][998]LogWorld: Bringing up level for play took: 0.004372
+[2017.09.04-00.42.45:225][998]LogLoad: Took 0.038565 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.46:845][190]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.46:845][190]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.46:855][190]Cmd: MEM
+[2017.09.04-00.42.46:864][190]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.46:864][190]LogMemory: Process Physical Memory: 1019.33 MB used, 1034.63 MB peak
+[2017.09.04-00.42.46:864][190]LogMemory: Process Virtual Memory: 1426.77 MB used, 1669.02 MB peak
+[2017.09.04-00.42.46:864][190]LogMemory: Physical Memory: 6371.54 MB used,  1778.62 MB free, 8150.16 MB total
+[2017.09.04-00.42.46:864][190]LogMemory: Virtual Memory: 2151.02 MB used,  1778.62 MB free, 8388608.00 MB total
+[2017.09.04-00.42.46:864][190]LogMemory: 
+[2017.09.04-00.42.46:864][190]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.46:864][190]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.46:877][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012384s)
+[2017.09.04-00.42.46:877][190]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.46:877][190]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2017.09.04-00.42.46:878][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013274s)
+[2017.09.04-00.42.46:878][190]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.46:883][190]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.46
+[2017.09.04-00.42.46:883][190]LogWorld: Bringing up level for play took: 0.004536
+[2017.09.04-00.42.46:884][190]LogLoad: Took 0.038914 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.48:329][361]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.48:329][361]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.48:339][361]Cmd: MEM
+[2017.09.04-00.42.48:348][361]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.48:348][361]LogMemory: Process Physical Memory: 1019.54 MB used, 1034.63 MB peak
+[2017.09.04-00.42.48:348][361]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.48:348][361]LogMemory: Physical Memory: 6371.03 MB used,  1779.13 MB free, 8150.16 MB total
+[2017.09.04-00.42.48:348][361]LogMemory: Virtual Memory: 2151.02 MB used,  1779.13 MB free, 8388608.00 MB total
+[2017.09.04-00.42.48:348][361]LogMemory: 
+[2017.09.04-00.42.48:348][361]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.48:348][361]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.48:361][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012538s)
+[2017.09.04-00.42.48:361][361]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.48:362][361]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2017.09.04-00.42.48:362][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013399s)
+[2017.09.04-00.42.48:362][361]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.48:368][361]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.48
+[2017.09.04-00.42.48:368][361]LogWorld: Bringing up level for play took: 0.005166
+[2017.09.04-00.42.48:369][361]LogLoad: Took 0.039616 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.49:983][552]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.49:983][552]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.49:992][552]Cmd: MEM
+[2017.09.04-00.42.50:002][552]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.50:002][552]LogMemory: Process Physical Memory: 1019.75 MB used, 1034.63 MB peak
+[2017.09.04-00.42.50:002][552]LogMemory: Process Virtual Memory: 1426.77 MB used, 1669.02 MB peak
+[2017.09.04-00.42.50:002][552]LogMemory: Physical Memory: 6371.22 MB used,  1778.93 MB free, 8150.16 MB total
+[2017.09.04-00.42.50:002][552]LogMemory: Virtual Memory: 2151.02 MB used,  1778.93 MB free, 8388608.00 MB total
+[2017.09.04-00.42.50:002][552]LogMemory: 
+[2017.09.04-00.42.50:002][552]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.50:002][552]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.50:014][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012339s)
+[2017.09.04-00.42.50:015][552]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.50:015][552]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2017.09.04-00.42.50:015][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013181s)
+[2017.09.04-00.42.50:015][552]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.50:020][552]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.50
+[2017.09.04-00.42.50:021][552]LogWorld: Bringing up level for play took: 0.004500
+[2017.09.04-00.42.50:022][552]LogLoad: Took 0.038902 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.51:517][729]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.51:517][729]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.51:527][729]Cmd: MEM
+[2017.09.04-00.42.51:537][729]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.51:537][729]LogMemory: Process Physical Memory: 1019.83 MB used, 1034.63 MB peak
+[2017.09.04-00.42.51:537][729]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.51:537][729]LogMemory: Physical Memory: 6370.46 MB used,  1779.70 MB free, 8150.16 MB total
+[2017.09.04-00.42.51:537][729]LogMemory: Virtual Memory: 2151.02 MB used,  1779.70 MB free, 8388608.00 MB total
+[2017.09.04-00.42.51:537][729]LogMemory: 
+[2017.09.04-00.42.51:537][729]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.51:537][729]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.51:549][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012313s)
+[2017.09.04-00.42.51:550][729]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.51:550][729]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2017.09.04-00.42.51:550][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013148s)
+[2017.09.04-00.42.51:550][729]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.51:555][729]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.51
+[2017.09.04-00.42.51:555][729]LogWorld: Bringing up level for play took: 0.004285
+[2017.09.04-00.42.51:556][729]LogLoad: Took 0.038934 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.52:434][832]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.52:434][832]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.52:444][832]Cmd: MEM
+[2017.09.04-00.42.52:453][832]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.52:453][832]LogMemory: Process Physical Memory: 1020.16 MB used, 1034.63 MB peak
+[2017.09.04-00.42.52:453][832]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.52:453][832]LogMemory: Physical Memory: 6371.23 MB used,  1778.93 MB free, 8150.16 MB total
+[2017.09.04-00.42.52:453][832]LogMemory: Virtual Memory: 2151.02 MB used,  1778.93 MB free, 8388608.00 MB total
+[2017.09.04-00.42.52:453][832]LogMemory: 
+[2017.09.04-00.42.52:453][832]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.52:454][832]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.52:466][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012211s)
+[2017.09.04-00.42.52:466][832]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.52:466][832]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2017.09.04-00.42.52:467][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013036s)
+[2017.09.04-00.42.52:467][832]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.52:469][832]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.52
+[2017.09.04-00.42.52:470][832]LogWorld: Bringing up level for play took: 0.002197
+[2017.09.04-00.42.52:471][832]LogLoad: Took 0.036390 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.53:357][936]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.53:357][936]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.53:367][936]Cmd: MEM
+[2017.09.04-00.42.53:376][936]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.53:376][936]LogMemory: Process Physical Memory: 1020.16 MB used, 1034.63 MB peak
+[2017.09.04-00.42.53:376][936]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.53:376][936]LogMemory: Physical Memory: 6370.76 MB used,  1779.40 MB free, 8150.16 MB total
+[2017.09.04-00.42.53:376][936]LogMemory: Virtual Memory: 2151.02 MB used,  1779.40 MB free, 8388608.00 MB total
+[2017.09.04-00.42.53:376][936]LogMemory: 
+[2017.09.04-00.42.53:376][936]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.53:377][936]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.53:389][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012283s)
+[2017.09.04-00.42.53:389][936]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.53:390][936]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.09.04-00.42.53:390][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013199s)
+[2017.09.04-00.42.53:390][936]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.53:394][936]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.53
+[2017.09.04-00.42.53:395][936]LogWorld: Bringing up level for play took: 0.004126
+[2017.09.04-00.42.53:396][936]LogLoad: Took 0.038639 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.54:884][112]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.54:884][112]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.54:894][112]Cmd: MEM
+[2017.09.04-00.42.54:904][112]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.54:904][112]LogMemory: Process Physical Memory: 1020.17 MB used, 1034.63 MB peak
+[2017.09.04-00.42.54:904][112]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.54:904][112]LogMemory: Physical Memory: 6371.09 MB used,  1779.07 MB free, 8150.16 MB total
+[2017.09.04-00.42.54:904][112]LogMemory: Virtual Memory: 2151.02 MB used,  1779.07 MB free, 8388608.00 MB total
+[2017.09.04-00.42.54:904][112]LogMemory: 
+[2017.09.04-00.42.54:904][112]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.54:904][112]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.54:916][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012473s)
+[2017.09.04-00.42.54:917][112]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.54:917][112]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.09.04-00.42.54:917][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013375s)
+[2017.09.04-00.42.54:917][112]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.54:922][112]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.54
+[2017.09.04-00.42.54:923][112]LogWorld: Bringing up level for play took: 0.004639
+[2017.09.04-00.42.54:924][112]LogLoad: Took 0.039551 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.56:020][241]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.56:020][241]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.56:030][241]Cmd: MEM
+[2017.09.04-00.42.56:039][241]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.56:039][241]LogMemory: Process Physical Memory: 1020.17 MB used, 1034.63 MB peak
+[2017.09.04-00.42.56:039][241]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.56:039][241]LogMemory: Physical Memory: 6370.02 MB used,  1780.14 MB free, 8150.16 MB total
+[2017.09.04-00.42.56:039][241]LogMemory: Virtual Memory: 2151.02 MB used,  1780.14 MB free, 8388608.00 MB total
+[2017.09.04-00.42.56:039][241]LogMemory: 
+[2017.09.04-00.42.56:039][241]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.56:039][241]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.56:052][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012389s)
+[2017.09.04-00.42.56:052][241]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.56:052][241]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.09.04-00.42.56:052][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013247s)
+[2017.09.04-00.42.56:052][241]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.56:057][241]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.56
+[2017.09.04-00.42.56:058][241]LogWorld: Bringing up level for play took: 0.004336
+[2017.09.04-00.42.56:059][241]LogLoad: Took 0.038557 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.57:571][420]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.57:571][420]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.57:583][420]Cmd: MEM
+[2017.09.04-00.42.57:593][420]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.57:593][420]LogMemory: Process Physical Memory: 1020.18 MB used, 1034.63 MB peak
+[2017.09.04-00.42.57:593][420]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.42.57:593][420]LogMemory: Physical Memory: 6369.69 MB used,  1780.47 MB free, 8150.16 MB total
+[2017.09.04-00.42.57:593][420]LogMemory: Virtual Memory: 2151.02 MB used,  1780.47 MB free, 8388608.00 MB total
+[2017.09.04-00.42.57:593][420]LogMemory: 
+[2017.09.04-00.42.57:593][420]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.57:593][420]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.57:605][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012459s)
+[2017.09.04-00.42.57:606][420]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.57:606][420]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2017.09.04-00.42.57:606][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013343s)
+[2017.09.04-00.42.57:606][420]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.57:611][420]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.57
+[2017.09.04-00.42.57:612][420]LogWorld: Bringing up level for play took: 0.004584
+[2017.09.04-00.42.57:613][420]LogLoad: Took 0.041353 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.42.58:553][530]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.58:553][530]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.42.58:563][530]Cmd: MEM
+[2017.09.04-00.42.58:572][530]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.42.58:573][530]LogMemory: Process Physical Memory: 1020.18 MB used, 1034.63 MB peak
+[2017.09.04-00.42.58:573][530]LogMemory: Process Virtual Memory: 1450.81 MB used, 1669.02 MB peak
+[2017.09.04-00.42.58:573][530]LogMemory: Physical Memory: 6370.14 MB used,  1780.02 MB free, 8150.16 MB total
+[2017.09.04-00.42.58:573][530]LogMemory: Virtual Memory: 2175.02 MB used,  1780.02 MB free, 8388608.00 MB total
+[2017.09.04-00.42.58:573][530]LogMemory: 
+[2017.09.04-00.42.58:573][530]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.42.58:573][530]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.42.58:585][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012161s)
+[2017.09.04-00.42.58:585][530]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.42.58:586][530]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.09.04-00.42.58:586][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013104s)
+[2017.09.04-00.42.58:586][530]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.42.58:588][530]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.42.58
+[2017.09.04-00.42.58:589][530]LogWorld: Bringing up level for play took: 0.001800
+[2017.09.04-00.42.58:590][530]LogLoad: Took 0.036669 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.00:095][708]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.00:095][708]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.00:105][708]Cmd: MEM
+[2017.09.04-00.43.00:114][708]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.00:114][708]LogMemory: Process Physical Memory: 1020.32 MB used, 1034.63 MB peak
+[2017.09.04-00.43.00:114][708]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.43.00:114][708]LogMemory: Physical Memory: 6369.24 MB used,  1780.92 MB free, 8150.16 MB total
+[2017.09.04-00.43.00:114][708]LogMemory: Virtual Memory: 2151.02 MB used,  1780.92 MB free, 8388608.00 MB total
+[2017.09.04-00.43.00:114][708]LogMemory: 
+[2017.09.04-00.43.00:114][708]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.00:114][708]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.00:127][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012370s)
+[2017.09.04-00.43.00:127][708]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.00:127][708]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2017.09.04-00.43.00:128][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013192s)
+[2017.09.04-00.43.00:128][708]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.00:133][708]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.00
+[2017.09.04-00.43.00:133][708]LogWorld: Bringing up level for play took: 0.004549
+[2017.09.04-00.43.00:134][708]LogLoad: Took 0.039023 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.01:646][887]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.01:646][887]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.01:656][887]Cmd: MEM
+[2017.09.04-00.43.01:666][887]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.01:666][887]LogMemory: Process Physical Memory: 1020.32 MB used, 1034.63 MB peak
+[2017.09.04-00.43.01:666][887]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.43.01:666][887]LogMemory: Physical Memory: 6369.33 MB used,  1780.83 MB free, 8150.16 MB total
+[2017.09.04-00.43.01:666][887]LogMemory: Virtual Memory: 2151.02 MB used,  1780.83 MB free, 8388608.00 MB total
+[2017.09.04-00.43.01:666][887]LogMemory: 
+[2017.09.04-00.43.01:666][887]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.01:666][887]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.01:678][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012305s)
+[2017.09.04-00.43.01:679][887]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.01:679][887]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2017.09.04-00.43.01:679][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013318s)
+[2017.09.04-00.43.01:679][887]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.01:684][887]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.01
+[2017.09.04-00.43.01:684][887]LogWorld: Bringing up level for play took: 0.004262
+[2017.09.04-00.43.01:685][887]LogLoad: Took 0.039224 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.03:179][ 64]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.03:179][ 64]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.03:189][ 64]Cmd: MEM
+[2017.09.04-00.43.03:198][ 64]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.03:198][ 64]LogMemory: Process Physical Memory: 1020.32 MB used, 1034.63 MB peak
+[2017.09.04-00.43.03:198][ 64]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.43.03:198][ 64]LogMemory: Physical Memory: 6369.31 MB used,  1780.85 MB free, 8150.16 MB total
+[2017.09.04-00.43.03:198][ 64]LogMemory: Virtual Memory: 2151.02 MB used,  1780.85 MB free, 8388608.00 MB total
+[2017.09.04-00.43.03:198][ 64]LogMemory: 
+[2017.09.04-00.43.03:198][ 64]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.03:198][ 64]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.03:211][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012301s)
+[2017.09.04-00.43.03:211][ 64]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.03:212][ 64]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.09.04-00.43.03:212][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013149s)
+[2017.09.04-00.43.03:212][ 64]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.03:217][ 64]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.03
+[2017.09.04-00.43.03:217][ 64]LogWorld: Bringing up level for play took: 0.004375
+[2017.09.04-00.43.03:218][ 64]LogLoad: Took 0.038624 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.04:747][245]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.04:747][245]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.04:757][245]Cmd: MEM
+[2017.09.04-00.43.04:767][245]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.04:767][245]LogMemory: Process Physical Memory: 1020.33 MB used, 1034.63 MB peak
+[2017.09.04-00.43.04:767][245]LogMemory: Process Virtual Memory: 1426.76 MB used, 1669.02 MB peak
+[2017.09.04-00.43.04:767][245]LogMemory: Physical Memory: 6369.71 MB used,  1780.45 MB free, 8150.16 MB total
+[2017.09.04-00.43.04:767][245]LogMemory: Virtual Memory: 2151.02 MB used,  1780.45 MB free, 8388608.00 MB total
+[2017.09.04-00.43.04:767][245]LogMemory: 
+[2017.09.04-00.43.04:767][245]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.04:767][245]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.04:779][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012427s)
+[2017.09.04-00.43.04:780][245]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.04:780][245]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2017.09.04-00.43.04:780][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013597s)
+[2017.09.04-00.43.04:780][245]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.04:785][245]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.04
+[2017.09.04-00.43.04:786][245]LogWorld: Bringing up level for play took: 0.004648
+[2017.09.04-00.43.04:787][245]LogLoad: Took 0.039450 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.06:333][428]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.06:333][428]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.06:342][428]Cmd: MEM
+[2017.09.04-00.43.06:352][428]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.06:352][428]LogMemory: Process Physical Memory: 1020.32 MB used, 1034.63 MB peak
+[2017.09.04-00.43.06:352][428]LogMemory: Process Virtual Memory: 1450.78 MB used, 1669.02 MB peak
+[2017.09.04-00.43.06:352][428]LogMemory: Physical Memory: 6369.22 MB used,  1780.93 MB free, 8150.16 MB total
+[2017.09.04-00.43.06:352][428]LogMemory: Virtual Memory: 2170.21 MB used,  1780.93 MB free, 8388608.00 MB total
+[2017.09.04-00.43.06:352][428]LogMemory: 
+[2017.09.04-00.43.06:352][428]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.06:352][428]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.06:365][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012335s)
+[2017.09.04-00.43.06:365][428]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.06:365][428]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2017.09.04-00.43.06:365][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013239s)
+[2017.09.04-00.43.06:365][428]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.06:371][428]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.06
+[2017.09.04-00.43.06:372][428]LogWorld: Bringing up level for play took: 0.005528
+[2017.09.04-00.43.06:373][428]LogLoad: Took 0.039843 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.07:886][607]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.07:886][607]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.07:895][607]Cmd: MEM
+[2017.09.04-00.43.07:905][607]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.07:905][607]LogMemory: Process Physical Memory: 1020.32 MB used, 1034.63 MB peak
+[2017.09.04-00.43.07:905][607]LogMemory: Process Virtual Memory: 1426.73 MB used, 1669.02 MB peak
+[2017.09.04-00.43.07:905][607]LogMemory: Physical Memory: 6369.21 MB used,  1780.94 MB free, 8150.16 MB total
+[2017.09.04-00.43.07:905][607]LogMemory: Virtual Memory: 2146.21 MB used,  1780.94 MB free, 8388608.00 MB total
+[2017.09.04-00.43.07:905][607]LogMemory: 
+[2017.09.04-00.43.07:905][607]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.07:905][607]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.07:917][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012322s)
+[2017.09.04-00.43.07:918][607]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.07:918][607]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2017.09.04-00.43.07:918][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013263s)
+[2017.09.04-00.43.07:918][607]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.07:923][607]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.07
+[2017.09.04-00.43.07:924][607]LogWorld: Bringing up level for play took: 0.004191
+[2017.09.04-00.43.07:924][607]LogLoad: Took 0.038700 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.09:416][783]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.09:416][783]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.09:426][783]Cmd: MEM
+[2017.09.04-00.43.09:436][783]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.09:436][783]LogMemory: Process Physical Memory: 1022.97 MB used, 1034.63 MB peak
+[2017.09.04-00.43.09:436][783]LogMemory: Process Virtual Memory: 1426.75 MB used, 1669.02 MB peak
+[2017.09.04-00.43.09:436][783]LogMemory: Physical Memory: 6369.27 MB used,  1780.89 MB free, 8150.16 MB total
+[2017.09.04-00.43.09:436][783]LogMemory: Virtual Memory: 2150.27 MB used,  1780.89 MB free, 8388608.00 MB total
+[2017.09.04-00.43.09:436][783]LogMemory: 
+[2017.09.04-00.43.09:436][783]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.09:436][783]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.09:450][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014629s)
+[2017.09.04-00.43.09:451][783]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.09:452][783]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2017.09.04-00.43.09:452][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.015916s)
+[2017.09.04-00.43.09:452][783]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.09:460][783]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.09
+[2017.09.04-00.43.09:460][783]LogWorld: Bringing up level for play took: 0.007229
+[2017.09.04-00.43.09:461][783]LogLoad: Took 0.045344 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.10:924][956]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.10:924][956]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.10:934][956]Cmd: MEM
+[2017.09.04-00.43.10:943][956]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.10:943][956]LogMemory: Process Physical Memory: 1021.34 MB used, 1035.65 MB peak
+[2017.09.04-00.43.10:943][956]LogMemory: Process Virtual Memory: 1426.74 MB used, 1669.02 MB peak
+[2017.09.04-00.43.10:943][956]LogMemory: Physical Memory: 6371.68 MB used,  1778.48 MB free, 8150.16 MB total
+[2017.09.04-00.43.10:943][956]LogMemory: Virtual Memory: 2146.21 MB used,  1778.48 MB free, 8388608.00 MB total
+[2017.09.04-00.43.10:943][956]LogMemory: 
+[2017.09.04-00.43.10:943][956]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.10:943][956]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.10:956][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012431s)
+[2017.09.04-00.43.10:956][956]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.10:957][956]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.09.04-00.43.10:957][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013392s)
+[2017.09.04-00.43.10:957][956]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.10:962][956]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.10
+[2017.09.04-00.43.10:962][956]LogWorld: Bringing up level for play took: 0.004449
+[2017.09.04-00.43.10:963][956]LogLoad: Took 0.038960 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.12:453][132]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.12:453][132]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.12:462][132]Cmd: MEM
+[2017.09.04-00.43.12:472][132]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.12:472][132]LogMemory: Process Physical Memory: 1021.38 MB used, 1035.65 MB peak
+[2017.09.04-00.43.12:472][132]LogMemory: Process Virtual Memory: 1426.73 MB used, 1669.02 MB peak
+[2017.09.04-00.43.12:472][132]LogMemory: Physical Memory: 6371.06 MB used,  1779.10 MB free, 8150.16 MB total
+[2017.09.04-00.43.12:472][132]LogMemory: Virtual Memory: 2146.21 MB used,  1779.10 MB free, 8388608.00 MB total
+[2017.09.04-00.43.12:472][132]LogMemory: 
+[2017.09.04-00.43.12:472][132]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.12:472][132]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.12:485][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012728s)
+[2017.09.04-00.43.12:485][132]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.12:485][132]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2017.09.04-00.43.12:486][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013598s)
+[2017.09.04-00.43.12:486][132]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.12:491][132]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.12
+[2017.09.04-00.43.12:491][132]LogWorld: Bringing up level for play took: 0.004711
+[2017.09.04-00.43.12:492][132]LogLoad: Took 0.039581 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.14:114][324]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.14:114][324]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.14:123][324]Cmd: MEM
+[2017.09.04-00.43.14:133][324]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.14:133][324]LogMemory: Process Physical Memory: 1021.39 MB used, 1035.65 MB peak
+[2017.09.04-00.43.14:133][324]LogMemory: Process Virtual Memory: 1426.73 MB used, 1669.02 MB peak
+[2017.09.04-00.43.14:133][324]LogMemory: Physical Memory: 6371.00 MB used,  1779.16 MB free, 8150.16 MB total
+[2017.09.04-00.43.14:133][324]LogMemory: Virtual Memory: 2146.21 MB used,  1779.16 MB free, 8388608.00 MB total
+[2017.09.04-00.43.14:133][324]LogMemory: 
+[2017.09.04-00.43.14:133][324]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.14:133][324]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.14:145][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012453s)
+[2017.09.04-00.43.14:146][324]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.14:146][324]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2017.09.04-00.43.14:146][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013292s)
+[2017.09.04-00.43.14:146][324]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.14:151][324]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.14
+[2017.09.04-00.43.14:151][324]LogWorld: Bringing up level for play took: 0.004203
+[2017.09.04-00.43.14:152][324]LogLoad: Took 0.038528 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.15:731][511]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.15:731][511]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.15:743][511]Cmd: MEM
+[2017.09.04-00.43.15:750][511]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.15:750][511]LogMemory: Process Physical Memory: 1021.39 MB used, 1035.65 MB peak
+[2017.09.04-00.43.15:750][511]LogMemory: Process Virtual Memory: 1426.73 MB used, 1669.02 MB peak
+[2017.09.04-00.43.15:750][511]LogMemory: Physical Memory: 6371.01 MB used,  1779.15 MB free, 8150.16 MB total
+[2017.09.04-00.43.15:750][511]LogMemory: Virtual Memory: 2146.21 MB used,  1779.15 MB free, 8388608.00 MB total
+[2017.09.04-00.43.15:750][511]LogMemory: 
+[2017.09.04-00.43.15:750][511]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.15:750][511]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.15:762][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012335s)
+[2017.09.04-00.43.15:763][511]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.15:763][511]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2017.09.04-00.43.15:763][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013356s)
+[2017.09.04-00.43.15:763][511]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.15:768][511]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.15
+[2017.09.04-00.43.15:769][511]LogWorld: Bringing up level for play took: 0.004345
+[2017.09.04-00.43.15:770][511]LogLoad: Took 0.038876 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.17:441][709]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.17:441][709]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.43.17:450][709]Cmd: MEM
+[2017.09.04-00.43.17:460][709]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.17:460][709]LogMemory: Process Physical Memory: 1021.39 MB used, 1035.65 MB peak
+[2017.09.04-00.43.17:460][709]LogMemory: Process Virtual Memory: 1442.76 MB used, 1669.02 MB peak
+[2017.09.04-00.43.17:460][709]LogMemory: Physical Memory: 6370.07 MB used,  1780.09 MB free, 8150.16 MB total
+[2017.09.04-00.43.17:460][709]LogMemory: Virtual Memory: 2162.21 MB used,  1780.09 MB free, 8388608.00 MB total
+[2017.09.04-00.43.17:460][709]LogMemory: 
+[2017.09.04-00.43.17:460][709]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.17:460][709]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.43.17:473][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012338s)
+[2017.09.04-00.43.17:473][709]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.43.17:473][709]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2017.09.04-00.43.17:473][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013330s)
+[2017.09.04-00.43.17:473][709]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.17:480][709]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.43.17
+[2017.09.04-00.43.17:480][709]LogWorld: Bringing up level for play took: 0.005602
+[2017.09.04-00.43.17:481][709]LogLoad: Took 0.039907 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.43.23:679][450]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.43.23:679][450]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.43.23:691][450]Cmd: MEM
+[2017.09.04-00.43.23:698][450]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.43.23:698][450]LogMemory: Process Physical Memory: 1012.89 MB used, 1035.65 MB peak
+[2017.09.04-00.43.23:698][450]LogMemory: Process Virtual Memory: 1442.20 MB used, 1669.02 MB peak
+[2017.09.04-00.43.23:698][450]LogMemory: Physical Memory: 6361.36 MB used,  1788.79 MB free, 8150.16 MB total
+[2017.09.04-00.43.23:698][450]LogMemory: Virtual Memory: 2161.65 MB used,  1788.79 MB free, 8388608.00 MB total
+[2017.09.04-00.43.23:698][450]LogMemory: 
+[2017.09.04-00.43.23:698][450]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.43.23:811][450]LogMaterial: Missing cached shader map for material YELLOW, compiling. 
+[2017.09.04-00.43.24:144][450]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.09.04-00.43.24:370][450]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.09.04-00.43.24:405][450]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.09.04-00.43.24:589][450]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.09.04-00.43.24:610][450]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2017.09.04-00.43.24:719][450]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2017.09.04-00.43.24:845][450]LogAIModule: Creating AISystem for world LevelTWO
+[2017.09.04-00.43.24:845][450]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.43.24:853][450]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelTWO.LevelTWO up for play (max tick rate 0) at 2017.09.04-12.43.24
+[2017.09.04-00.43.24:853][450]LogWorld: Bringing up level for play took: 0.007102
+[2017.09.04-00.43.24:855][450]LogLoad: Took 1.176294 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelTWO)
+[2017.09.04-00.44.00:824][731]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.00:824][731]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.00:844][731]Cmd: MEM
+[2017.09.04-00.44.00:851][731]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.44.00:851][731]LogMemory: Process Physical Memory: 1103.72 MB used, 1207.88 MB peak
+[2017.09.04-00.44.00:851][731]LogMemory: Process Virtual Memory: 1634.27 MB used, 1706.12 MB peak
+[2017.09.04-00.44.00:851][731]LogMemory: Physical Memory: 6426.14 MB used,  1724.02 MB free, 8150.16 MB total
+[2017.09.04-00.44.00:851][731]LogMemory: Virtual Memory: 2367.40 MB used,  1724.02 MB free, 8388608.00 MB total
+[2017.09.04-00.44.00:851][731]LogMemory: 
+[2017.09.04-00.44.00:851][731]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.44.00:996][731]LogAIModule: Creating AISystem for world LevelTWO
+[2017.09.04-00.44.00:996][731]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.44.01:001][731]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelTWO.LevelTWO up for play (max tick rate 0) at 2017.09.04-12.44.01
+[2017.09.04-00.44.01:002][731]LogWorld: Bringing up level for play took: 0.004618
+[2017.09.04-00.44.01:003][731]LogLoad: Took 0.178786 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelTWO)
+[2017.09.04-00.44.05:459][261]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.05:459][261]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.05:472][261]Cmd: MEM
+[2017.09.04-00.44.05:482][261]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.44.05:482][261]LogMemory: Process Physical Memory: 1136.39 MB used, 1207.88 MB peak
+[2017.09.04-00.44.05:482][261]LogMemory: Process Virtual Memory: 1546.77 MB used, 1824.37 MB peak
+[2017.09.04-00.44.05:482][261]LogMemory: Physical Memory: 6458.42 MB used,  1691.74 MB free, 8150.16 MB total
+[2017.09.04-00.44.05:482][261]LogMemory: Virtual Memory: 2280.02 MB used,  1691.74 MB free, 8388608.00 MB total
+[2017.09.04-00.44.05:482][261]LogMemory: 
+[2017.09.04-00.44.05:482][261]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.44.05:613][261]LogAIModule: Creating AISystem for world LevelTWO
+[2017.09.04-00.44.05:613][261]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.44.05:619][261]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelTWO.LevelTWO up for play (max tick rate 0) at 2017.09.04-12.44.05
+[2017.09.04-00.44.05:619][261]LogWorld: Bringing up level for play took: 0.004604
+[2017.09.04-00.44.05:620][261]LogLoad: Took 0.161039 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelTWO)
+[2017.09.04-00.44.20:122][998]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.20:122][998]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelTWO
+[2017.09.04-00.44.20:137][998]Cmd: MEM
+[2017.09.04-00.44.20:145][998]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.44.20:145][998]LogMemory: Process Physical Memory: 1137.30 MB used, 1207.88 MB peak
+[2017.09.04-00.44.20:145][998]LogMemory: Process Virtual Memory: 1546.78 MB used, 1824.37 MB peak
+[2017.09.04-00.44.20:145][998]LogMemory: Physical Memory: 6458.07 MB used,  1692.09 MB free, 8150.16 MB total
+[2017.09.04-00.44.20:145][998]LogMemory: Virtual Memory: 2280.02 MB used,  1692.09 MB free, 8388608.00 MB total
+[2017.09.04-00.44.20:145][998]LogMemory: 
+[2017.09.04-00.44.20:145][998]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.44.20:274][998]LogAIModule: Creating AISystem for world LevelTWO
+[2017.09.04-00.44.20:275][998]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.44.20:280][998]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelTWO.LevelTWO up for play (max tick rate 0) at 2017.09.04-12.44.20
+[2017.09.04-00.44.20:280][998]LogWorld: Bringing up level for play took: 0.004628
+[2017.09.04-00.44.20:281][998]LogLoad: Took 0.159046 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelTWO)
+[2017.09.04-00.44.22:914][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.44.23:079][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.45.44:730][ 91]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.09.04-00.46.07:566][736]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.09.04-00.46.07:580][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.07:580][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.04-00.46.07:580][736]PIE: New page: PIE session: LevelONE (5/09/2017 12:46:07 am)
+[2017.09.04-00.46.07:580][736]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.07:596][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015912s)
+[2017.09.04-00.46.07:597][736]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.07:597][736]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2017.09.04-00.46.07:597][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.016904s)
+[2017.09.04-00.46.07:763][736]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.04-00.46.07:770][736]LogInit: FAudioDevice initialized.
+[2017.09.04-00.46.07:813][736]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.07:815][736]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.07
+[2017.09.04-00.46.07:816][736]LogWorld: Bringing up level for play took: 0.001877
+[2017.09.04-00.46.07:820][736]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE 1.062
+[2017.09.04-00.46.07:820][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.11:382][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.11:457][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.18:386][955]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.09.04-00.46.18:399][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.18:399][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.04-00.46.18:400][955]PIE: New page: PIE session: LevelONE (5/09/2017 12:46:18 am)
+[2017.09.04-00.46.18:400][955]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.18:415][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015167s)
+[2017.09.04-00.46.18:415][955]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.18:416][955]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.09.04-00.46.18:416][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.016144s)
+[2017.09.04-00.46.18:451][955]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.04-00.46.18:457][955]LogInit: FAudioDevice initialized.
+[2017.09.04-00.46.18:500][955]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.18:503][955]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.18
+[2017.09.04-00.46.18:503][955]LogWorld: Bringing up level for play took: 0.001826
+[2017.09.04-00.46.18:508][955]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE -0.251
+[2017.09.04-00.46.18:508][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.25:879][832]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.25:879][832]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.25:889][832]Cmd: MEM
+[2017.09.04-00.46.25:898][832]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.25:898][832]LogMemory: Process Physical Memory: 1087.14 MB used, 1207.88 MB peak
+[2017.09.04-00.46.25:898][832]LogMemory: Process Virtual Memory: 1600.25 MB used, 1824.37 MB peak
+[2017.09.04-00.46.25:898][832]LogMemory: Physical Memory: 6401.66 MB used,  1748.50 MB free, 8150.16 MB total
+[2017.09.04-00.46.25:898][832]LogMemory: Virtual Memory: 2318.15 MB used,  1748.50 MB free, 8388608.00 MB total
+[2017.09.04-00.46.25:898][832]LogMemory: 
+[2017.09.04-00.46.25:898][832]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.25:898][832]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.25:912][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013694s)
+[2017.09.04-00.46.25:912][832]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.25:913][832]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.09.04-00.46.25:913][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.014622s)
+[2017.09.04-00.46.25:913][832]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.25:919][832]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.25
+[2017.09.04-00.46.25:919][832]LogWorld: Bringing up level for play took: 0.005496
+[2017.09.04-00.46.25:920][832]LogLoad: Took 0.041146 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.27:584][ 27]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.27:584][ 27]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.27:593][ 27]Cmd: MEM
+[2017.09.04-00.46.27:603][ 27]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.27:603][ 27]LogMemory: Process Physical Memory: 1095.54 MB used, 1207.88 MB peak
+[2017.09.04-00.46.27:603][ 27]LogMemory: Process Virtual Memory: 1490.26 MB used, 1824.37 MB peak
+[2017.09.04-00.46.27:603][ 27]LogMemory: Physical Memory: 6409.76 MB used,  1740.39 MB free, 8150.16 MB total
+[2017.09.04-00.46.27:603][ 27]LogMemory: Virtual Memory: 2208.34 MB used,  1740.39 MB free, 8388608.00 MB total
+[2017.09.04-00.46.27:603][ 27]LogMemory: 
+[2017.09.04-00.46.27:603][ 27]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.27:603][ 27]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.27:615][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012497s)
+[2017.09.04-00.46.27:616][ 27]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.27:616][ 27]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2017.09.04-00.46.27:617][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013626s)
+[2017.09.04-00.46.27:617][ 27]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.27:621][ 27]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.27
+[2017.09.04-00.46.27:622][ 27]LogWorld: Bringing up level for play took: 0.004055
+[2017.09.04-00.46.27:623][ 27]LogLoad: Took 0.038619 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.29:289][224]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.29:289][224]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.29:298][224]Cmd: MEM
+[2017.09.04-00.46.29:308][224]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.29:308][224]LogMemory: Process Physical Memory: 1095.58 MB used, 1207.88 MB peak
+[2017.09.04-00.46.29:308][224]LogMemory: Process Virtual Memory: 1514.30 MB used, 1824.37 MB peak
+[2017.09.04-00.46.29:308][224]LogMemory: Physical Memory: 6409.60 MB used,  1740.55 MB free, 8150.16 MB total
+[2017.09.04-00.46.29:308][224]LogMemory: Virtual Memory: 2232.34 MB used,  1740.55 MB free, 8388608.00 MB total
+[2017.09.04-00.46.29:308][224]LogMemory: 
+[2017.09.04-00.46.29:308][224]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.29:308][224]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.29:320][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012239s)
+[2017.09.04-00.46.29:321][224]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.29:321][224]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2017.09.04-00.46.29:321][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013214s)
+[2017.09.04-00.46.29:321][224]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.29:328][224]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.29
+[2017.09.04-00.46.29:328][224]LogWorld: Bringing up level for play took: 0.006253
+[2017.09.04-00.46.29:329][224]LogLoad: Took 0.040545 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.31:126][437]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.31:126][437]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.31:135][437]Cmd: MEM
+[2017.09.04-00.46.31:144][437]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.31:144][437]LogMemory: Process Physical Memory: 1095.87 MB used, 1207.88 MB peak
+[2017.09.04-00.46.31:144][437]LogMemory: Process Virtual Memory: 1514.31 MB used, 1824.37 MB peak
+[2017.09.04-00.46.31:144][437]LogMemory: Physical Memory: 6410.05 MB used,  1740.11 MB free, 8150.16 MB total
+[2017.09.04-00.46.31:144][437]LogMemory: Virtual Memory: 2232.34 MB used,  1740.11 MB free, 8388608.00 MB total
+[2017.09.04-00.46.31:144][437]LogMemory: 
+[2017.09.04-00.46.31:144][437]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.31:144][437]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.31:157][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012424s)
+[2017.09.04-00.46.31:157][437]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.31:158][437]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2017.09.04-00.46.31:158][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013377s)
+[2017.09.04-00.46.31:158][437]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.31:163][437]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.31
+[2017.09.04-00.46.31:163][437]LogWorld: Bringing up level for play took: 0.004889
+[2017.09.04-00.46.31:164][437]LogLoad: Took 0.038892 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.35:793][990]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.35:793][990]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.35:802][990]Cmd: MEM
+[2017.09.04-00.46.35:811][990]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.35:811][990]LogMemory: Process Physical Memory: 1095.95 MB used, 1207.88 MB peak
+[2017.09.04-00.46.35:811][990]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.35:811][990]LogMemory: Physical Memory: 6409.71 MB used,  1740.45 MB free, 8150.16 MB total
+[2017.09.04-00.46.35:811][990]LogMemory: Virtual Memory: 2208.46 MB used,  1740.45 MB free, 8388608.00 MB total
+[2017.09.04-00.46.35:811][990]LogMemory: 
+[2017.09.04-00.46.35:811][990]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.35:811][990]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.35:824][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012572s)
+[2017.09.04-00.46.35:825][990]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.35:825][990]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2017.09.04-00.46.35:825][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013616s)
+[2017.09.04-00.46.35:825][990]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.35:830][990]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.35
+[2017.09.04-00.46.35:830][990]LogWorld: Bringing up level for play took: 0.004444
+[2017.09.04-00.46.35:831][990]LogLoad: Took 0.038673 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.38:219][274]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.38:219][274]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.38:228][274]Cmd: MEM
+[2017.09.04-00.46.38:237][274]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.38:237][274]LogMemory: Process Physical Memory: 1096.06 MB used, 1207.88 MB peak
+[2017.09.04-00.46.38:237][274]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.38:237][274]LogMemory: Physical Memory: 6410.04 MB used,  1740.12 MB free, 8150.16 MB total
+[2017.09.04-00.46.38:237][274]LogMemory: Virtual Memory: 2208.46 MB used,  1740.12 MB free, 8388608.00 MB total
+[2017.09.04-00.46.38:237][274]LogMemory: 
+[2017.09.04-00.46.38:237][274]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.38:238][274]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.38:250][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012464s)
+[2017.09.04-00.46.38:251][274]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.38:251][274]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.09.04-00.46.38:251][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013412s)
+[2017.09.04-00.46.38:251][274]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.38:256][274]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.38
+[2017.09.04-00.46.38:256][274]LogWorld: Bringing up level for play took: 0.004493
+[2017.09.04-00.46.38:257][274]LogLoad: Took 0.038615 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.40:646][558]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.40:646][558]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.40:656][558]Cmd: MEM
+[2017.09.04-00.46.40:666][558]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.40:666][558]LogMemory: Process Physical Memory: 1096.18 MB used, 1207.88 MB peak
+[2017.09.04-00.46.40:666][558]LogMemory: Process Virtual Memory: 1514.44 MB used, 1824.37 MB peak
+[2017.09.04-00.46.40:666][558]LogMemory: Physical Memory: 6410.14 MB used,  1740.02 MB free, 8150.16 MB total
+[2017.09.04-00.46.40:666][558]LogMemory: Virtual Memory: 2232.46 MB used,  1740.02 MB free, 8388608.00 MB total
+[2017.09.04-00.46.40:666][558]LogMemory: 
+[2017.09.04-00.46.40:666][558]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.40:666][558]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.40:679][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012623s)
+[2017.09.04-00.46.40:679][558]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.40:679][558]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2017.09.04-00.46.40:679][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013531s)
+[2017.09.04-00.46.40:679][558]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.40:685][558]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.40
+[2017.09.04-00.46.40:686][558]LogWorld: Bringing up level for play took: 0.005344
+[2017.09.04-00.46.40:687][558]LogLoad: Took 0.040622 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.42:516][775]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.42:516][775]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.42:525][775]Cmd: MEM
+[2017.09.04-00.46.42:534][775]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.42:534][775]LogMemory: Process Physical Memory: 1096.25 MB used, 1207.88 MB peak
+[2017.09.04-00.46.42:534][775]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.42:534][775]LogMemory: Physical Memory: 6410.26 MB used,  1739.90 MB free, 8150.16 MB total
+[2017.09.04-00.46.42:534][775]LogMemory: Virtual Memory: 2208.46 MB used,  1739.90 MB free, 8388608.00 MB total
+[2017.09.04-00.46.42:534][775]LogMemory: 
+[2017.09.04-00.46.42:534][775]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.42:534][775]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.42:547][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012731s)
+[2017.09.04-00.46.42:548][775]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.42:548][775]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2017.09.04-00.46.42:548][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013582s)
+[2017.09.04-00.46.42:548][775]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.42:553][775]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.42
+[2017.09.04-00.46.42:553][775]LogWorld: Bringing up level for play took: 0.004137
+[2017.09.04-00.46.42:554][775]LogLoad: Took 0.038504 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.46:865][290]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.46:865][290]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.46:875][290]Cmd: MEM
+[2017.09.04-00.46.46:885][290]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.46:885][290]LogMemory: Process Physical Memory: 1096.35 MB used, 1207.88 MB peak
+[2017.09.04-00.46.46:885][290]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.46:885][290]LogMemory: Physical Memory: 6410.07 MB used,  1740.08 MB free, 8150.16 MB total
+[2017.09.04-00.46.46:885][290]LogMemory: Virtual Memory: 2208.46 MB used,  1740.08 MB free, 8388608.00 MB total
+[2017.09.04-00.46.46:885][290]LogMemory: 
+[2017.09.04-00.46.46:885][290]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.46:885][290]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.46:897][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012385s)
+[2017.09.04-00.46.46:898][290]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.46:898][290]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2017.09.04-00.46.46:898][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013385s)
+[2017.09.04-00.46.46:898][290]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.46:903][290]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.46
+[2017.09.04-00.46.46:903][290]LogWorld: Bringing up level for play took: 0.004217
+[2017.09.04-00.46.46:904][290]LogLoad: Took 0.038746 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.48:584][489]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.48:584][489]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.48:596][489]Cmd: MEM
+[2017.09.04-00.46.48:603][489]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.48:603][489]LogMemory: Process Physical Memory: 1096.36 MB used, 1207.88 MB peak
+[2017.09.04-00.46.48:603][489]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.48:603][489]LogMemory: Physical Memory: 6410.95 MB used,  1739.20 MB free, 8150.16 MB total
+[2017.09.04-00.46.48:603][489]LogMemory: Virtual Memory: 2208.46 MB used,  1739.20 MB free, 8388608.00 MB total
+[2017.09.04-00.46.48:603][489]LogMemory: 
+[2017.09.04-00.46.48:603][489]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.48:603][489]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.48:615][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012368s)
+[2017.09.04-00.46.48:616][489]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.48:616][489]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.09.04-00.46.48:616][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013324s)
+[2017.09.04-00.46.48:616][489]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.48:621][489]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.48
+[2017.09.04-00.46.48:621][489]LogWorld: Bringing up level for play took: 0.003851
+[2017.09.04-00.46.48:622][489]LogLoad: Took 0.038105 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.49:788][626]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.49:788][626]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.49:800][626]Cmd: MEM
+[2017.09.04-00.46.49:807][626]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.49:807][626]LogMemory: Process Physical Memory: 1096.37 MB used, 1207.88 MB peak
+[2017.09.04-00.46.49:807][626]LogMemory: Process Virtual Memory: 1506.42 MB used, 1824.37 MB peak
+[2017.09.04-00.46.49:807][626]LogMemory: Physical Memory: 6410.96 MB used,  1739.19 MB free, 8150.16 MB total
+[2017.09.04-00.46.49:807][626]LogMemory: Virtual Memory: 2224.46 MB used,  1739.19 MB free, 8388608.00 MB total
+[2017.09.04-00.46.49:807][626]LogMemory: 
+[2017.09.04-00.46.49:807][626]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.49:807][626]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.49:820][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012663s)
+[2017.09.04-00.46.49:820][626]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.49:820][626]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2017.09.04-00.46.49:820][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013529s)
+[2017.09.04-00.46.49:820][626]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.49:826][626]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.49
+[2017.09.04-00.46.49:826][626]LogWorld: Bringing up level for play took: 0.005153
+[2017.09.04-00.46.49:827][626]LogLoad: Took 0.039567 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.51:349][806]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.51:349][806]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.51:358][806]Cmd: MEM
+[2017.09.04-00.46.51:368][806]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.51:368][806]LogMemory: Process Physical Memory: 1096.37 MB used, 1207.88 MB peak
+[2017.09.04-00.46.51:368][806]LogMemory: Process Virtual Memory: 1490.39 MB used, 1824.37 MB peak
+[2017.09.04-00.46.51:368][806]LogMemory: Physical Memory: 6410.72 MB used,  1739.43 MB free, 8150.16 MB total
+[2017.09.04-00.46.51:368][806]LogMemory: Virtual Memory: 2208.46 MB used,  1739.43 MB free, 8388608.00 MB total
+[2017.09.04-00.46.51:368][806]LogMemory: 
+[2017.09.04-00.46.51:368][806]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.51:368][806]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.51:381][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013338s)
+[2017.09.04-00.46.51:382][806]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.51:382][806]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.09.04-00.46.51:382][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.014421s)
+[2017.09.04-00.46.51:383][806]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.51:387][806]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.51
+[2017.09.04-00.46.51:387][806]LogWorld: Bringing up level for play took: 0.003861
+[2017.09.04-00.46.51:389][806]LogLoad: Took 0.039788 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.52:969][993]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.52:969][993]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.52:981][993]Cmd: MEM
+[2017.09.04-00.46.52:991][993]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.52:991][993]LogMemory: Process Physical Memory: 1096.35 MB used, 1207.88 MB peak
+[2017.09.04-00.46.52:991][993]LogMemory: Process Virtual Memory: 1490.36 MB used, 1824.37 MB peak
+[2017.09.04-00.46.52:991][993]LogMemory: Physical Memory: 6410.23 MB used,  1739.93 MB free, 8150.16 MB total
+[2017.09.04-00.46.52:991][993]LogMemory: Virtual Memory: 2203.65 MB used,  1739.93 MB free, 8388608.00 MB total
+[2017.09.04-00.46.52:991][993]LogMemory: 
+[2017.09.04-00.46.52:991][993]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.52:991][993]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.53:004][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012927s)
+[2017.09.04-00.46.53:004][993]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.53:005][993]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2017.09.04-00.46.53:005][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013983s)
+[2017.09.04-00.46.53:005][993]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.53:010][993]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.53
+[2017.09.04-00.46.53:010][993]LogWorld: Bringing up level for play took: 0.004287
+[2017.09.04-00.46.53:011][993]LogLoad: Took 0.041956 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.54:525][172]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.54:525][172]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.54:537][172]Cmd: MEM
+[2017.09.04-00.46.54:546][172]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.54:546][172]LogMemory: Process Physical Memory: 1096.35 MB used, 1207.88 MB peak
+[2017.09.04-00.46.54:546][172]LogMemory: Process Virtual Memory: 1490.36 MB used, 1824.37 MB peak
+[2017.09.04-00.46.54:546][172]LogMemory: Physical Memory: 6409.66 MB used,  1740.50 MB free, 8150.16 MB total
+[2017.09.04-00.46.54:546][172]LogMemory: Virtual Memory: 2203.65 MB used,  1740.50 MB free, 8388608.00 MB total
+[2017.09.04-00.46.54:546][172]LogMemory: 
+[2017.09.04-00.46.54:546][172]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.54:546][172]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.54:559][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013017s)
+[2017.09.04-00.46.54:560][172]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.54:560][172]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2017.09.04-00.46.54:560][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.013886s)
+[2017.09.04-00.46.54:560][172]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.54:565][172]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.54
+[2017.09.04-00.46.54:566][172]LogWorld: Bringing up level for play took: 0.004613
+[2017.09.04-00.46.54:567][172]LogLoad: Took 0.041948 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.56:119][355]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.56:119][355]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelONE
+[2017.09.04-00.46.56:129][355]Cmd: MEM
+[2017.09.04-00.46.56:139][355]LogMemory: Platform Memory Stats for Windows
+[2017.09.04-00.46.56:139][355]LogMemory: Process Physical Memory: 1096.35 MB used, 1207.88 MB peak
+[2017.09.04-00.46.56:139][355]LogMemory: Process Virtual Memory: 1490.36 MB used, 1824.37 MB peak
+[2017.09.04-00.46.56:139][355]LogMemory: Physical Memory: 6410.65 MB used,  1739.51 MB free, 8150.16 MB total
+[2017.09.04-00.46.56:139][355]LogMemory: Virtual Memory: 2203.65 MB used,  1739.51 MB free, 8388608.00 MB total
+[2017.09.04-00.46.56:139][355]LogMemory: 
+[2017.09.04-00.46.56:139][355]Allocator Stats for TBB: (not implemented)
+[2017.09.04-00.46.56:139][355]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE
+[2017.09.04-00.46.56:154][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014253s)
+[2017.09.04-00.46.56:154][355]LogAIModule: Creating AISystem for world LevelONE
+[2017.09.04-00.46.56:154][355]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2017.09.04-00.46.56:155][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelONE.LevelONE to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE (0.015117s)
+[2017.09.04-00.46.56:155][355]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.04-00.46.56:159][355]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE.LevelONE up for play (max tick rate 0) at 2017.09.04-12.46.56
+[2017.09.04-00.46.56:160][355]LogWorld: Bringing up level for play took: 0.003847
+[2017.09.04-00.46.56:160][355]LogLoad: Took 0.041255 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_LevelONE)
+[2017.09.04-00.46.56:908][428]Set new viewmode: Wireframe
+[2017.09.04-00.46.56:910][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.46.56:991][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE' with GeneratedClass '/Game/SideScrollerBP/Maps/LevelONE.LevelONE_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LevelONE.LevelONE:PersistentLevel.LevelONE'
+[2017.09.04-00.47.58:554][601]LogSavePackage: Save=449.87ms
+[2017.09.04-00.47.58:556][601]LogSavePackage: Moving 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Saved/LevelONE01BC63C54BACC916E1E4B0B9C44B6260.tmp' to 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/SideScrollerBP/Maps/LevelONE.umap'
+[2017.09.04-00.47.58:564][601]LogSavePackage:Display: Finished SavePackage E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/SideScrollerBP/Maps/LevelONE.umap
+[2017.09.04-00.47.58:609][601]LogFileHelpers: Saving map 'LevelONE' took 1.017
+[2017.09.04-00.48.13:151][657]Cmd: QUIT_EDITOR
+[2017.09.04-00.48.13:365][657]LogExit: Preparing to exit.
+[2017.09.04-00.48.14:376][657]LogExit: Editor shut down
+[2017.09.04-00.48.14:376][657]LogExit: Transaction tracking system shut down
+[2017.09.04-00.48.15:278][657]LogObj: Freed 0b from 0 cluster array pools.
+[2017.09.04-00.48.15:278][657]LogExit: Object subsystem successfully closed.
+[2017.09.04-00.48.15:389][657]LogD3D11RHI: Shutdown
+[2017.09.04-00.48.15:399][657]LogD3D11RHI: CleanupD3DDevice
+[2017.09.04-00.48.15:471][657]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.04-00.48.15:801][657]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.04-00.48.15:801][657]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34121AD0-408E-21ED-9778-FFB3BF5C1B82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=7be3154940b6656b08858dae89e8ccd4%7C%7C666ee097-7174-45e8-824b-5e07575a7a84&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.04-00.48.15:821][657]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.09.04-00.48.15:821][657]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (243)
+[2017.09.04-00.48.15:822][657]LogModuleManager: Shutting down and abandoning module CrashTracker (242)
+[2017.09.04-00.48.15:822][657]LogModuleManager: Shutting down and abandoning module SceneOutliner (241)
+[2017.09.04-00.48.15:822][657]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
+[2017.09.04-00.48.15:822][657]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
+[2017.09.04-00.48.15:833][657]LogDirectoryWatcher: A directory notification for 'C:/apps/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.09.04-00.48.15:833][657]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
+[2017.09.04-00.48.15:833][657]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
+[2017.09.04-00.48.15:833][657]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
+[2017.09.04-00.48.15:835][657]LogDirectoryWatcher: A directory notification for 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/Collections/' was aborted.
+[2017.09.04-00.48.15:835][657]LogDirectoryWatcher: A directory notification for 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/Developers/gregoryjon6888/Collections/' was aborted.
+[2017.09.04-00.48.15:835][657]LogDirectoryWatcher: A directory notification for 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Saved/Collections/' was aborted.
+[2017.09.04-00.48.15:835][657]LogModuleManager: Shutting down and abandoning module StatsViewer (235)
+[2017.09.04-00.48.15:837][657]LogModuleManager: Shutting down and abandoning module FoliageEdit (234)
+[2017.09.04-00.48.15:850][657]LogModuleManager: Shutting down and abandoning module LandscapeEditor (233)
+[2017.09.04-00.48.15:851][657]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (232)
+[2017.09.04-00.48.15:851][657]LogModuleManager: Shutting down and abandoning module ActorPickerMode (231)
+[2017.09.04-00.48.15:851][657]LogModuleManager: Shutting down and abandoning module GeometryMode (230)
+[2017.09.04-00.48.15:851][657]LogModuleManager: Shutting down and abandoning module TextureAlignMode (229)
+[2017.09.04-00.48.15:851][657]LogModuleManager: Shutting down and abandoning module BspMode (228)
+[2017.09.04-00.48.15:862][657]LogModuleManager: Shutting down and abandoning module HardwareSurvey (227)
+[2017.09.04-00.48.15:862][657]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (226)
+[2017.09.04-00.48.15:862][657]LogModuleManager: Shutting down and abandoning module AutomationWorker (225)
+[2017.09.04-00.48.15:862][657]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (224)
+[2017.09.04-00.48.15:863][657]LogModuleManager: Shutting down and abandoning module PlacementMode (223)
+[2017.09.04-00.48.15:873][657]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (222)
+[2017.09.04-00.48.15:893][657]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (221)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (220)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (219)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (218)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (216)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (215)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module CharacterAI (214)
+[2017.09.04-00.48.15:894][657]LogModuleManager: Shutting down and abandoning module SequenceRecorder (213)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module AudioCapture (212)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module SmartSnapping (211)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module SessionServices (210)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module ViewportSnapping (209)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module ViewportInteraction (208)
+[2017.09.04-00.48.15:911][657]LogModuleManager: Shutting down and abandoning module LogVisualizer (207)
+[2017.09.04-00.48.15:930][657]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (206)
+[2017.09.04-00.48.15:942][657]LogModuleManager: Shutting down and abandoning module IntroTutorials (205)
+[2017.09.04-00.48.15:955][657]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (204)
+[2017.09.04-00.48.15:955][657]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (203)
+[2017.09.04-00.48.15:967][657]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (202)
+[2017.09.04-00.48.15:967][657]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (201)
+[2017.09.04-00.48.16:313][657]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (200)
+[2017.09.04-00.48.16:336][657]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (199)
+[2017.09.04-00.48.16:336][657]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (198)
+[2017.09.04-00.48.16:336][657]LogModuleManager: Shutting down and abandoning module InputBindingEditor (197)
+[2017.09.04-00.48.16:337][657]LogModuleManager: Shutting down and abandoning module NiagaraEditor (196)
+[2017.09.04-00.48.16:359][657]LogModuleManager: Shutting down and abandoning module MergeActors (195)
+[2017.09.04-00.48.16:370][657]LogModuleManager: Shutting down and abandoning module SizeMap (194)
+[2017.09.04-00.48.16:370][657]LogModuleManager: Shutting down and abandoning module TreeMap (193)
+[2017.09.04-00.48.16:372][657]LogModuleManager: Shutting down and abandoning module ReferenceViewer (192)
+[2017.09.04-00.48.16:372][657]LogModuleManager: Shutting down and abandoning module LocalizationService (191)
+[2017.09.04-00.48.16:372][657]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (190)
+[2017.09.04-00.48.16:388][657]LogModuleManager: Shutting down and abandoning module HardwareTargeting (189)
+[2017.09.04-00.48.16:388][657]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (188)
+[2017.09.04-00.48.16:389][657]LogModuleManager: Shutting down and abandoning module UndoHistory (187)
+[2017.09.04-00.48.16:400][657]LogModuleManager: Shutting down and abandoning module UserFeedback (186)
+[2017.09.04-00.48.16:400][657]LogModuleManager: Shutting down and abandoning module XmlParser (185)
+[2017.09.04-00.48.16:400][657]LogModuleManager: Shutting down and abandoning module Blutility (184)
+[2017.09.04-00.48.16:400][657]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (183)
+[2017.09.04-00.48.16:401][657]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (182)
+[2017.09.04-00.48.16:401][657]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (181)
+[2017.09.04-00.48.16:401][657]LogModuleManager: Shutting down and abandoning module SettingsEditor (180)
+[2017.09.04-00.48.16:403][657]LogModuleManager: Shutting down and abandoning module ProjectLauncher (179)
+[2017.09.04-00.48.16:417][657]LogModuleManager: Shutting down and abandoning module SessionFrontend (178)
+[2017.09.04-00.48.16:432][657]LogModuleManager: Shutting down and abandoning module ProfilerClient (177)
+[2017.09.04-00.48.16:433][657]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (176)
+[2017.09.04-00.48.16:433][657]LogModuleManager: Shutting down and abandoning module DeviceManager (175)
+[2017.09.04-00.48.16:483][657]LogModuleManager: Shutting down and abandoning module AutomationController (174)
+[2017.09.04-00.48.16:485][657]LogModuleManager: Shutting down and abandoning module AutomationWindow (173)
+[2017.09.04-00.48.16:515][657]LogModuleManager: Shutting down and abandoning module Layers (172)
+[2017.09.04-00.48.16:530][657]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (171)
+[2017.09.04-00.48.16:530][657]LogModuleManager: Shutting down and abandoning module DetailCustomizations (170)
+[2017.09.04-00.48.16:531][657]LogModuleManager: Shutting down and abandoning module PackagesDialog (169)
+[2017.09.04-00.48.16:531][657]LogModuleManager: Shutting down and abandoning module AnimGraph (168)
+[2017.09.04-00.48.16:531][657]LogModuleManager: Shutting down and abandoning module Persona (167)
+[2017.09.04-00.48.16:532][657]LogModuleManager: Shutting down and abandoning module Kismet (166)
+[2017.09.04-00.48.16:533][657]LogModuleManager: Shutting down and abandoning module GraphEditor (165)
+[2017.09.04-00.48.16:549][657]LogModuleManager: Shutting down and abandoning module ClassViewer (164)
+[2017.09.04-00.48.16:559][657]LogModuleManager: Shutting down and abandoning module Toolbox (163)
+[2017.09.04-00.48.16:559][657]LogModuleManager: Shutting down and abandoning module ModuleUI (162)
+[2017.09.04-00.48.16:560][657]LogModuleManager: Shutting down and abandoning module MovieSceneTools (161)
+[2017.09.04-00.48.16:579][657]LogModuleManager: Shutting down and abandoning module OutputLog (160)
+[2017.09.04-00.48.16:599][657]LogModuleManager: Shutting down and abandoning module GammaUI (159)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module Documentation (158)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module Niagara (157)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (156)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module AnalyticsET (155)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module PortalServices (154)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module PortalRpc (153)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module MessagingRpc (152)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module GameplayDebugger (151)
+[2017.09.04-00.48.16:600][657]LogModuleManager: Shutting down and abandoning module AITestSuite (150)
+[2017.09.04-00.48.16:607][657]LogModuleManager: Shutting down and abandoning module AIModule (149)
+[2017.09.04-00.48.16:607][657]LogModuleManager: Shutting down and abandoning module ProfilerService (148)
+[2017.09.04-00.48.16:645][657]LogModuleManager: Shutting down and abandoning module TaskGraph (147)
+[2017.09.04-00.48.16:667][657]LogModuleManager: Shutting down and abandoning module SubstanceEditor (146)
+[2017.09.04-00.48.16:684][657]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.09.04-00.48.16:684][657]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.09.04-00.48.16:684][657]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.09.04-00.48.16:684][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.09.04-00.48.16:684][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.09.04-00.48.16:698][657]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.09.04-00.48.16:698][657]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.09.04-00.48.16:699][657]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.09.04-00.48.16:699][657]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.09.04-00.48.16:699][657]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.09.04-00.48.16:699][657]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.09.04-00.48.16:699][657]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.09.04-00.48.16:718][657]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.09.04-00.48.16:718][657]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.09.04-00.48.16:718][657]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.09.04-00.48.16:718][657]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.09.04-00.48.16:728][657]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.09.04-00.48.16:729][657]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.09.04-00.48.16:729][657]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.09.04-00.48.16:729][657]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.09.04-00.48.16:729][657]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.09.04-00.48.16:740][657]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.09.04-00.48.16:752][657]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.09.04-00.48.16:752][657]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.09.04-00.48.16:752][657]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.09.04-00.48.16:752][657]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.09.04-00.48.16:752][657]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.09.04-00.48.16:762][657]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.09.04-00.48.16:763][657]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.09.04-00.48.16:764][657]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.09.04-00.48.16:772][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.09.04-00.48.16:772][657]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.09.04-00.48.16:773][657]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.09.04-00.48.16:773][657]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.09.04-00.48.16:773][657]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.09.04-00.48.16:784][657]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.09.04-00.48.16:784][657]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.09.04-00.48.16:784][657]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.09.04-00.48.16:786][657]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.09.04-00.48.16:787][657]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.09.04-00.48.16:803][657]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
+[2017.09.04-00.48.16:903][657]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2017.09.04-00.48.17:003][657]LogModuleManager: Shutting down and abandoning module SubstanceCore (102)
+[2017.09.04-00.48.17:023][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.09.04-00.48.17:023][657]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.09.04-00.48.17:033][657]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.09.04-00.48.17:033][657]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.09.04-00.48.17:035][657]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.09.04-00.48.17:061][657]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.09.04-00.48.17:061][657]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.09.04-00.48.17:078][657]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.09.04-00.48.17:092][657]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.09.04-00.48.17:092][657]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.09.04-00.48.17:092][657]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.09.04-00.48.17:118][657]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.09.04-00.48.17:134][657]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.09.04-00.48.17:136][657]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.09.04-00.48.17:162][657]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.09.04-00.48.17:162][657]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.09.04-00.48.17:164][657]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.09.04-00.48.17:165][657]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.04-00.48.17:165][657]LogDirectoryWatcher: A directory notification for 'E:/Year 2/Semester 2/Rapid Game Prototyping/prototype 4/CUBE-JUMP/Content/' was aborted.
+[2017.09.04-00.48.17:165][657]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.04-00.48.17:165][657]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.09.04-00.48.17:586][657]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.09.04-00.48.17:586][657]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.09.04-00.48.17:586][657]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.09.04-00.48.17:601][657]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.09.04-00.48.17:602][657]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.09.04-00.48.17:602][657]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.09.04-00.48.17:602][657]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.09.04-00.48.17:620][657]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.09.04-00.48.17:701][657]LogDerivedDataCache: Shutdown
+[2017.09.04-00.48.17:701][657]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.09.04-00.48.17:702][657]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.09.04-00.48.17:703][657]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.09.04-00.48.17:703][657]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.09.04-00.48.17:717][657]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.09.04-00.48.17:717][657]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.09.04-00.48.17:717][657]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.09.04-00.48.17:717][657]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.09.04-00.48.17:718][657]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.09.04-00.48.17:718][657]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.09.04-00.48.17:718][657]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.09.04-00.48.17:718][657]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.09.04-00.48.17:728][657]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.09.04-00.48.17:729][657]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.09.04-00.48.17:729][657]LogOnline:Display: Unloading online subsystem: NULL
+[2017.09.04-00.48.17:731][657]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.09.04-00.48.17:732][657]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.09.04-00.48.17:732][657]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.09.04-00.48.17:761][657]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.09.04-00.48.17:761][657]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.09.04-00.48.17:761][657]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.09.04-00.48.17:761][657]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.09.04-00.48.17:768][657]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.09.04-00.48.17:769][657]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.09.04-00.48.17:769][657]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.09.04-00.48.17:770][657]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.09.04-00.48.17:770][657]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.09.04-00.48.17:770][657]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.09.04-00.48.17:770][657]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.09.04-00.48.17:771][657]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.09.04-00.48.17:771][657]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.09.04-00.48.17:771][657]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.09.04-00.48.17:773][657]LogExit: Exiting.
+[2017.09.04-00.48.17:808][657]Log file closed, 09/04/17 12:48:17
